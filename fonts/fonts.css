@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* Peachy Productions Site Fonts */
+
+@font-face {
+    font-family: Apercu;
+    src: url('ApercuPro-Light.otf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: Apercu;
+    src: url('ApercuPro-Regular.otf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Apercu;
+    src: url('ApercuPro-Medium.otf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Apercu;
+    src: url('ApercuPro-Bold.otf');
+    font-weight: 700;
+} 
+
+@font-face {
+    font-family: Poppins;
+    src: url('Poppins-Light.ttf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('Poppins-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('Poppins-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: EBGaramond;
+    src: url('EBGaramond-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Jost;
+    src: url('Jost-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Muli;
+    src: url('Muli-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Sofia;
+    src: url('sofiapro-light.otf');
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url('Roboto-Regular.ttf');
+}
