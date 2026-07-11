@@ -338,7 +338,7 @@ menu li {
 }
 
 .button:hover  {
-	background-color: #8458B3;
+	background-color: #1b1c1d;
 	color: #fff;
 	transition: all 0.3s ease-in-out 0s;
 }
